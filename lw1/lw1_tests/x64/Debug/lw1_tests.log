@@ -1,0 +1,5 @@
+﻿  lw1_tests.cpp
+D:\programs\C++\combMath\lw1\lw1\findMinDistance.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "lw1_tests.cpp")
+  
+  lw1_tests.vcxproj -> D:\programs\C++\combMath\lw1\x64\Debug\lw1_tests.exe
